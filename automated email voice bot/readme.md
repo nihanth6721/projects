@@ -1,9 +1,9 @@
 -------------------------------------------recuriments---------------
-SpeechRecognition
-PyAudio
-pipwin
-pyaudio
-pyttsx3
+SpeechRecognition /
+PyAudio /
+pipwin / 
+pyaudio / 
+pyttsx3 
 ---------------------------------------------------------------------------
 Automated voice email, or voice-to-text email, involves using technology to convert spoken messages into written email text.
 **Functionality and Technology:**
